@@ -1,11 +1,11 @@
- // Initialize Firebase
- var config = {
-    apiKey: "AIzaSyC_HsCc08nxb6JP0CyGZq3CxIJrhKsbplU",
-    authDomain: "project-monarch-e3503.firebaseapp.com",
-    databaseURL: "https://project-monarch-e3503.firebaseio.com",
-    projectId: "project-monarch-e3503",
-    storageBucket: "project-monarch-e3503.appspot.com",
-    messagingSenderId: "181317180117"
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAGEuzTMq0-qg2jiI2farw-yUSCipsYcps",
+    authDomain: "project-monarch-rc-variant.firebaseapp.com",
+    databaseURL: "https://project-monarch-rc-variant.firebaseio.com",
+    projectId: "project-monarch-rc-variant",
+    storageBucket: "",
+    messagingSenderId: "1071980545440"
   };
   firebase.initializeApp(config);
 
